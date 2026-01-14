@@ -1,6 +1,6 @@
 # Hello, I'm Michael 👋
 
-I am a Lead Full-Stack Software Engineer with a strong backend and architectural focus, specializing in designing, building, and evolving complex software platforms and distributed systems. I work on long-lived, business-critical solutions with an emphasis on reliability, scalability, and maintainability.
+I am a Lead Full-Stack Software Engineer with a strong architectural focus, specializing in designing, building, and evolving complex software platforms and distributed systems. I work on long-lived, business-critical solutions with an emphasis on reliability, scalability, and maintainability.
 
 * * *
 
